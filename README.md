@@ -57,7 +57,7 @@ if __name__ == "__main__":
   </li>
 </ol>
 
-<h3>Step 2: Protect with VMProtect or Themida</h3>
+<h3>Step 2: Protect with VMProtect or Themida or other protector</h3>
 
 <p>Once you have generated the executable with Nuitka, you can use VMProtect or Themida to protect it:</p>
 
